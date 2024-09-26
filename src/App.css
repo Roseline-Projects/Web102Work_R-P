@@ -1,0 +1,30 @@
+.header {
+  margin: 1em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2em;
+  text-align: center;
+  margin-top: 2em;
+
+}
+
+.title {
+  color:#1d1d35;
+  font-size:larger;
+  font-weight: bold;
+}
+
+.splash-text {
+  border-left: solid;
+  border-left-width: 3px;
+
+  padding-left: 2em;
+  padding-right: 2em;
+}
+
+.card-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
